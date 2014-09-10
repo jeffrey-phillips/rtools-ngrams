@@ -11,6 +11,8 @@ I've used these to query noun-verb co-occurrence patterns, with the final goal o
 
 3. parse_query_output.R: counts the occurrences of target words in query results and saves these counts in some data frames.
 
-4. calc_freq.R: co-occurrence counts and pointwise mutual information (PMI) for noun-verb pairs.
+4. count_subj_verb_pairs.R: co-occurrence counts for subject/verb pairs.
 
-5. make_proto_sentences.R: put together sentences with desired 
+5. calc_freq.R: co-occurrence counts and pointwise mutual information (PMI) for noun-verb pairs.
+
+6. make_proto_sentences.R: put together sentences with desired 
